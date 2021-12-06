@@ -28,6 +28,12 @@ A Keras implementation of the Dy-Gap model proposed in the paper is presented in
 
 
 
+###  Graph Evaluation and Statistics
+The iPython Notebook [Figures_and_Statistics.ipynb](Figures_and_Statistics.ipynb) provide the related network statisitcs and their distribution. It also recreate some of the Figures from the paper.
+
+
+
+
 ### Citation
 @inproceedings{Uddin2021_DYGCN,<br />
 author = {Uddin, Ajim and Tao, Xinyuan and Yu, Dantong},<br />
