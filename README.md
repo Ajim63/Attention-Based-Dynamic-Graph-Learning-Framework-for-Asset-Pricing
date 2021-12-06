@@ -29,7 +29,7 @@ A Keras implementation of the Dy-Gap model proposed in the paper is presented in
 
 
 ### Citation
-@inproceedings{10.1145/3459637.3482413,
+@inproceedings{Uddin2021_DYGCN,
 author = {Uddin, Ajim and Tao, Xinyuan and Yu, Dantong},
 title = {Attention Based Dynamic Graph Learning Framework for Asset Pricing},
 year = {2021},
@@ -38,7 +38,6 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3459637.3482413},
 doi = {10.1145/3459637.3482413},
-abstract = {Recent studies suggest that financial networks play an essential role in asset valuation and investment decisions. Unlike road networks, financial networks are neither given nor static, posing significant challenges in learning meaningful networks and promoting their applications in price prediction. In this paper, we first apply the attention mechanism to connect the "dots" (firms) and learn dynamic network structures among stocks over time. Next, the end-to-end graph neural networks pipeline diffuses and propagates the firms' accounting fundamentals into the learned networks and ultimately predicts stock future returns. The proposed model reduces the prediction errors by 6% compared to the state-of-the-art models. Our results are robust with different assessment measures. We also show that portfolios based on our model outperform the S&P-500 index by 34% in terms of Sharpe Ratio, suggesting that our model is better at capturing the dynamic inter-connection among firms and identifying stocks with fast recovery from major events. Further investigation on the learned networks reveals that the network structure aligns closely with the market conditions. Finally, with an ablation study, we investigate different alternative versions of our model and the contribution of each component.},
 booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},
 pages = {1844–1853},
 numpages = {10},
