@@ -29,21 +29,21 @@ A Keras implementation of the Dy-Gap model proposed in the paper is presented in
 
 
 ### Citation
-@inproceedings{Uddin2021_DYGCN,
-author = {Uddin, Ajim and Tao, Xinyuan and Yu, Dantong},
-title = {Attention Based Dynamic Graph Learning Framework for Asset Pricing},
-year = {2021},
-isbn = {9781450384469},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3459637.3482413},
-doi = {10.1145/3459637.3482413},
-booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},
-pages = {1844–1853},
-numpages = {10},
-keywords = {asset pricing, fintech, graph neural networks, diffusion recurrent convolution, graph attention, stock price prediction},
-location = {Virtual Event, Queensland, Australia},
-series = {CIKM '21}
+@inproceedings{Uddin2021_DYGCN,<br />
+author = {Uddin, Ajim and Tao, Xinyuan and Yu, Dantong},<br />
+title = {Attention Based Dynamic Graph Learning Framework for Asset Pricing},<br />
+year = {2021},<br />
+isbn = {9781450384469},<br />
+publisher = {Association for Computing Machinery},<br />
+address = {New York, NY, USA},<br />
+url = {https://doi.org/10.1145/3459637.3482413},<br />
+doi = {10.1145/3459637.3482413},<br />
+booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},<br />
+pages = {1844–1853},<br />
+numpages = {10},<br />
+keywords = {asset pricing, fintech, graph neural networks, diffusion recurrent convolution, graph attention, stock price prediction},<br />
+location = {Virtual Event, Queensland, Australia},<br />
+series = {CIKM '21}<br />
 }
 
   
