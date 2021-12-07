@@ -43,6 +43,13 @@ Green represents positive edges and red represents negative edges. During the no
  <p align="center">
  June 24 2016
  </p>
+ <p align="center">
+
+  <img width="200" src="Figures/June_24_2016.png" alt="June_24_2016">
+
+</p>
+ 
+ <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
    ![June_24_2016](Figures/June_24_2016.png) 
  
   
