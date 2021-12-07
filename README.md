@@ -41,8 +41,8 @@ The iPython Notebook [Figures_and_Statistics.ipynb](Figures_and_Statistics.ipynb
 Green represents positive edges and red represents negative edges. During the normal economic condition, the market consists of a mixture of positive and negative edges. However, during the economic or political event, the network is dominated by positive edges, representing the commonality across firms.
 
  <p align="center">
- //June 24 2016
-  </p>
+ June 24 2016
+ </p>
    ![June_24_2016](Figures/June_24_2016.png) 
  
   
