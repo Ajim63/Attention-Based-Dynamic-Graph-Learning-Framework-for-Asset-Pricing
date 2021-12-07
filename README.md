@@ -70,7 +70,7 @@ June 25 2020
  Dec_31_2020.png
   </p>
    <p align="center">
-  <img width="400" src="Figures/Dec_31_2020.png" alt="Dec_31_2020">
+  <img width="400" src="Figures/Dec_31_2020.png">
 </p>
 
 
