@@ -44,7 +44,7 @@ Green represents positive edges and red represents negative edges. During the no
  June 24 2016
  </p>
  <p align="center">
-  <img width="400" src="Figures/June_24_2016.png" alt="June_24_2016">
+  <img width="500" src="Figures/June_24_2016.png">
 </p>
 
    ![June_24_2016](Figures/June_24_2016.png) 
@@ -54,14 +54,14 @@ Green represents positive edges and red represents negative edges. During the no
 March 23 2020.png
 </p>
  <p align="center">
-  <img width="400" src="Figures/March_23_2020.png" alt="March 23 2020">
+  <img width="500" src="Figures/March_23_2020.png">
 </p>
 
 <p align="center">
 June 25 2020
  </p>
  <p align="center">
-  <img width="400" src="Figures/Figures/June_25_2020.png" alt="June_25_2020">
+  <img width="500" src="Figures/Figures/June_25_2020.png">
 </p>
 
 
@@ -70,7 +70,7 @@ June 25 2020
  Dec_31_2020.png
   </p>
    <p align="center">
-  <img width="400" src="Figures/Dec_31_2020.png">
+  <img width="500" src="Figures/Dec_31_2020.png">
 </p>
 
 
