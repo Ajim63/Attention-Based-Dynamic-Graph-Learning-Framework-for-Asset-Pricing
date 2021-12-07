@@ -46,8 +46,6 @@ Green represents positive edges and red represents negative edges. During the no
  <p align="center">
   <img width="500" src="Figures/June_24_2016.png">
 </p>
-
-   ![June_24_2016](Figures/June_24_2016.png) 
  
   
  <p align="center">
@@ -61,7 +59,7 @@ March 23 2020.png
 June 25 2020
  </p>
  <p align="center">
-  <img width="500" src="Figures/Figures/June_25_2020.png">
+  <img width="500" src="Figures/June_25_2020.png">
 </p>
 
 
