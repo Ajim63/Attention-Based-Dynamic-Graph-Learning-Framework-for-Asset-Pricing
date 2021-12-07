@@ -39,19 +39,30 @@ The iPython Notebook [Figures_and_Statistics.ipynb](Figures_and_Statistics.ipynb
  
 ##### The network structure of S&P-500 stocks at different points of time. 
 Green represents positive edges and red represents negative edges. During the normal economic condition, the market consists of a mixture of positive and negative edges. However, during the economic or political event, the network is dominated by positive edges, representing the commonality across firms.
- ![June_24_2016](Figures/June_24_2016.png) ![March 23 2020](Figures/March_23_2020.png)
- June 24 2016
- 
- 
-March 23 2020.png
 
+ <p align="center">
+ //June 24 2016
+  </p>
+   ![June_24_2016](Figures/June_24_2016.png) 
+ 
+  
+ <p align="center">
+  // March 23 2020.png
+</p>
+![March 23 2020](Figures/March_23_2020.png)
+
+<p align="center">
+//June 25 2020
+ </p>
 ![June_25_2020](Figures/June_25_2020.png)
-June 25 2020
 
 
 
+<p align="center">
+ //Dec_31_2020.png
+  </p>
  ![Dec_31_2020](Figures/Dec_31_2020.png)
-Dec_31_2020.png
+
 
 ### Citation
 @inproceedings{Uddin2021_DYGCN,<br />
