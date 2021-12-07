@@ -44,31 +44,34 @@ Green represents positive edges and red represents negative edges. During the no
  June 24 2016
  </p>
  <p align="center">
-
-  <img width="200" src="Figures/June_24_2016.png" alt="June_24_2016">
-
+  <img width="400" src="Figures/June_24_2016.png" alt="June_24_2016">
 </p>
- 
- <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+
    ![June_24_2016](Figures/June_24_2016.png) 
  
   
  <p align="center">
-  // March 23 2020.png
+March 23 2020.png
 </p>
-![March 23 2020](Figures/March_23_2020.png)
+ <p align="center">
+  <img width="400" src="Figures/March_23_2020.png" alt="March 23 2020">
+</p>
 
 <p align="center">
-//June 25 2020
+June 25 2020
  </p>
-![June_25_2020](Figures/June_25_2020.png)
+ <p align="center">
+  <img width="400" src="Figures/Figures/June_25_2020.png" alt="June_25_2020">
+</p>
 
 
 
-<p align="center">
- //Dec_31_2020.png
+ <p align="center">
+ Dec_31_2020.png
   </p>
- ![Dec_31_2020](Figures/Dec_31_2020.png)
+   <p align="center">
+  <img width="400" src="Figures/Dec_31_2020.png" alt="Dec_31_2020">
+</p>
 
 
 ### Citation
