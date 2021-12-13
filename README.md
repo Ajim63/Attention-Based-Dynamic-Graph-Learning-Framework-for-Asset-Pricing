@@ -16,6 +16,8 @@ This is a tensorflow-keras implementation of our CIKM-2021 paper [**"Attention B
 
 
 
+
+
 ### **DATA** 
 
 The initial raw daily data can be downloaded from [Here](https://drive.google.com/file/d/15HG7-P5hUU8TtRmMDzY3_j_k-h_jyGwJ/view?usp=sharing). Caution this data set is very large about 330mb and consist of 3147312 rows and 14 colums. The data includes 1035 unique TIC id for firms.
